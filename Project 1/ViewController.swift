@@ -13,8 +13,8 @@ class ViewController: UIViewController {
     @IBAction func touchCard(_ sender: UIButton) {
         
     }
-    func flipCard(withEmoji emoji:String, on button:UIButton) <#return type#> {
-        <#function body#>
+    func flipCard(withEmoji emoji:String, on button:UIButton)  {
+        
     }
   
 }
