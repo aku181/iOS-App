@@ -74,6 +74,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		FA742ED0201E7DA7000940FE /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				FA8B4F75201E385200212915 /* AppDelegate.swift */,
+				FA8B4F7C201E385200212915 /* Assets.xcassets */,
+				FA8B4F7E201E385200212915 /* LaunchScreen.storyboard */,
+			);
+			path = "Supporting Files";
+			sourceTree = "<group>";
+		};
 		FA8B4F69201E385200212915 = {
 			isa = PBXGroup;
 			children = (
@@ -97,11 +107,9 @@
 		FA8B4F74201E385200212915 /* Project 1 */ = {
 			isa = PBXGroup;
 			children = (
-				FA8B4F75201E385200212915 /* AppDelegate.swift */,
 				FA8B4F77201E385200212915 /* ViewController.swift */,
 				FA8B4F79201E385200212915 /* Main.storyboard */,
-				FA8B4F7C201E385200212915 /* Assets.xcassets */,
-				FA8B4F7E201E385200212915 /* LaunchScreen.storyboard */,
+				FA742ED0201E7DA7000940FE /* Supporting Files */,
 				FA8B4F81201E385200212915 /* Info.plist */,
 			);
 			path = "Project 1";
